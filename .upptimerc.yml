@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   status-website:
-  themeUrl: https://www.censecar.com.mx/facturacion/assets/css/style.css
+  themeUrl: https://www.censecar.com.mx/facturacion/assets/css/style-up.css
   baseUrl: /censecar
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CenSeCar
