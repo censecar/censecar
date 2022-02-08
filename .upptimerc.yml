@@ -5,12 +5,16 @@ repo: censecar # The name of this repository
 sites:
   - name: SIMA (MANIFIESTOS)
     url: http://200.12.125.74
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: SAAIT (FIANZAS)
     url: http://200.12.125.73/Login
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: Manifiestos (NUEVO)
     url: https://manifiestos.censecar.com.mx
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: Fianzas (NUEVO)
     url: https://fianzas.censecar.com.mx
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: Contrato Digital (CARTA PORTE)
     url: https://contratodigital.online
 
