@@ -17,6 +17,7 @@ sites:
     icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: Contrato Digital (CARTA PORTE)
     url: https://contratodigital.online
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
 
 assigness:
   - hklabl13
@@ -29,7 +30,7 @@ status-website:
   status-website:
   themeUrl: https://www.censecar.com.mx/facturacion/assets/css/style-up.css
   baseUrl: /censecar
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.censecar.com.mx/facturacion/app-assets/images/logo/censecar.jpg
   name: CenSeCar
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
