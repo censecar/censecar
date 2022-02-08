@@ -32,8 +32,8 @@ status-website:
   baseUrl: /censecar
   logoUrl: https://www.censecar.com.mx/facturacion/app-assets/images/logo/censecar.jpg
   name: CenSeCar
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "En este sitio podrá verificar el estatus de nuestros sistemas, en caso de caída o cualquier otra incidencia"
+  introMessage: Valida en tiempo real la disponibilidad de los servicios CenSeCar
   navbar:
     - title: Status
       href: /
