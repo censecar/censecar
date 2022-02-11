@@ -22,19 +22,19 @@
     "url": "http://200.12.125.73/Login",
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "saait-fianzas",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 407,
-    "timeDay": 286,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 396,
+    "timeDay": 279,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-02-11": 2
+      "2022-02-11": 12
     }
   },
   {
