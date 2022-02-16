@@ -4,19 +4,19 @@
     "url": "http://200.12.125.74",
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "sima-manifiestos",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 949,
-    "timeDay": 1037,
-    "timeWeek": 976,
-    "timeMonth": 949,
-    "timeYear": 949,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 991,
+    "timeDay": 1374,
+    "timeWeek": 1050,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2022-02-16": 2
+      "2022-02-16": 11
     }
   },
   {
