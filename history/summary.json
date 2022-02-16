@@ -4,18 +4,20 @@
     "url": "http://200.12.125.74",
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "sima-manifiestos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 949,
     "timeDay": 1037,
     "timeWeek": 976,
     "timeMonth": 949,
     "timeYear": 949,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 2
+    }
   },
   {
     "name": "SAAIT (FIANZAS)",
@@ -23,19 +25,17 @@
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "saait-fianzas",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 227,
     "timeWeek": 283,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {
-      "2022-02-16": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Manifiestos (NUEVO)",
