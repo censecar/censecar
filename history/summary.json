@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1266,
-    "timeWeek": 609,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 911,
+    "timeDay": 372,
+    "timeWeek": 610,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "saait-fianzas",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 386,
-    "timeDay": 227,
-    "timeWeek": 372,
-    "timeMonth": 386,
-    "timeYear": 386,
-    "dailyMinutesDown": {
-      "2022-03-05": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 382,
+    "timeDay": 213,
+    "timeWeek": 371,
+    "timeMonth": 382,
+    "timeYear": 382,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Manifiestos (NUEVO)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 486,
-    "timeWeek": 396,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 385,
+    "timeWeek": 410,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 424,
-    "timeWeek": 400,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "time": 386,
+    "timeDay": 439,
+    "timeWeek": 413,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 282,
-    "timeWeek": 350,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 366,
+    "timeDay": 461,
+    "timeWeek": 348,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
