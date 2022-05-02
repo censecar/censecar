@@ -46,10 +46,10 @@
     "url": "https://manifiestos.censecar.com.mx",
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "manifiestos-nuevo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
@@ -57,7 +57,9 @@
     "timeWeek": 435,
     "timeMonth": 391,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 2
+    }
   },
   {
     "name": "Fianzas (NUEVO)",
