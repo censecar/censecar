@@ -12,9 +12,6 @@ sites:
   - name: Manifiestos (NUEVO)
     url: https://manifiestos.censecar.com.mx
     icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
-  - name: Fianzas (NUEVO)
-    url: https://fianzas.censecar.com.mx
-    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
   - name: Contrato Digital (CARTA PORTE)
     url: https://contratodigital.online
     icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
