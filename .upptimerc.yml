@@ -35,6 +35,7 @@ status-website:
   status-website:
   #themeUrl: https://www.censecar.com.mx/facturacion/assets/css/style-up.css
   theme: night
+  favicon: https://www.censecar.com.mx/facturacion/app-assets/images/ico/favicon.ico
   baseUrl: /censecar
   logoUrl: https://www.censecar.com.mx/facturacion/app-assets/images/logo/censecar.jpg
   name: CenSeCar
