@@ -37,8 +37,9 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: CenSeCar
+      href: https://www.censecar.com.mx
+      #href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
