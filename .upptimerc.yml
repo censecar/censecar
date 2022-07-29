@@ -47,6 +47,9 @@ status-website:
     - title: CenSeCar
       href: https://www.censecar.com.mx
       #href: https://github.com/$OWNER/$REPO
+  # Traduccion
+  i18n:
+      activeIncidents: Incidentes activos
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
