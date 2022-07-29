@@ -32,7 +32,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  status-website:
   #themeUrl: https://www.censecar.com.mx/facturacion/assets/css/style-up.css
   theme: night
   favicon: https://www.censecar.com.mx/facturacion/app-assets/images/ico/favicon.ico
@@ -41,13 +40,6 @@ status-website:
   name: CenSeCar
   introTitle: "En este sitio podrá verificar el estatus de nuestros sistemas, en caso de caída o cualquier otra incidencia"
   introMessage: Valida en tiempo real la disponibilidad de los servicios CenSeCar
-  navbar:
-    - title: Status
-      href: /
-    - title: CenSeCar
-      href: https://www.censecar.com.mx
-      #href: https://github.com/$OWNER/$REPO
-  # Traduccion
   i18n:
       activeIncidents: Incidentes activos
       allSystemsOperational: Todos los sistemas están operativos
@@ -74,5 +66,11 @@ status-website:
       down: Caído
       degraded: Degradado
       loading: Cargando
+  navbar:
+    - title: Status
+      href: /
+    - title: CenSeCar
+      href: https://www.censecar.com.mx
+      #href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
