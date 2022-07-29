@@ -50,6 +50,29 @@ status-website:
   # Traduccion
   i18n:
       activeIncidents: Incidentes activos
-
+      allSystemsOperational: Todos los sistemas están operativos
+      incidentReport: "Incidente #$NUMBER reporte →"
+      activeIncidentSummary: Abierto el $DATE con $POSTS posts
+      incidentTitle: Incidente $NUMBER detalle
+      incidentDetails: Detalles del incidente
+      incidentFixed: Resuelto
+      incidentOngoing: En curso
+      incidentOpenedAt: Abierto a las
+      incidentClosedAt: Cerrado a las
+      incidentCommentSummary: Publicado el $DATE por $AUTHOR
+      incidentBack: ← Volver a todos los incidentes
+      pastIncidents: Incidentes Pasados
+      pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+      liveStatus: Estatus en Tiempo Real
+      overallUptime: "Tiempo de Actividad General: $UPTIME"
+      overallUptimeTitle: Tiempor de Actividad General
+      averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+      averageResponseTimeTitle: Respuesta promedio
+      sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
+      responseTimeMs: Tiempo de respuesta (ms)
+      up: En línea
+      down: Caído
+      degraded: Degradado
+      loading: Cargando
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
